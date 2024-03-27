@@ -1,0 +1,7 @@
+C:\workspace\RobotsPositions\RobotsPositions\bin\Debug\RobotsPositions.exe.config
+C:\workspace\RobotsPositions\RobotsPositions\bin\Debug\RobotsPositions.exe
+C:\workspace\RobotsPositions\RobotsPositions\bin\Debug\RobotsPositions.pdb
+C:\workspace\RobotsPositions\RobotsPositions\obj\Debug\RobotsPositions.csproj.AssemblyReference.cache
+C:\workspace\RobotsPositions\RobotsPositions\obj\Debug\RobotsPositions.csproj.CoreCompileInputs.cache
+C:\workspace\RobotsPositions\RobotsPositions\obj\Debug\RobotsPositions.exe
+C:\workspace\RobotsPositions\RobotsPositions\obj\Debug\RobotsPositions.pdb
